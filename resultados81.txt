@@ -1,0 +1,405 @@
+=== Escenario: 8x8tp64.txt | Marcos: 4 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 4 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 8 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 8 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 16 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp64.txt | Marcos: 16 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 7
+Acceso 1087 exito de página con página virtual 11
+********Proceso 1 Total accesos 1100 Total fallos 12
+
+=== Escenario: 8x8tp256.txt | Marcos: 4 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 4 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 8 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 8 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 16 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp256.txt | Marcos: 16 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 1
+Acceso 1087 exito de página con página virtual 2
+********Proceso 1 Total accesos 1091 Total fallos 3
+
+=== Escenario: 8x8tp1024.txt | Marcos: 4 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 4 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 8 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 8 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 16 | Política: FIFO ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 8x8tp1024.txt | Marcos: 16 | Política: LRU ===
+Acceso 1086 exito de página con página virtual 0
+Acceso 1087 exito de página con página virtual 0
+********Proceso 1 Total accesos 1089 Total fallos 1
+
+=== Escenario: 16x16tp64.txt | Marcos: 4 | Política: FIFO ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 4 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 31
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 10859 Total fallos 2411
+
+=== Escenario: 16x16tp64.txt | Marcos: 8 | Política: FIFO ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 8 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 31
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 10877 Total fallos 2429
+
+=== Escenario: 16x16tp64.txt | Marcos: 16 | Política: FIFO ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 8447 fallo con página virtual 47
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 13168 Total fallos 4720
+
+=== Escenario: 16x16tp64.txt | Marcos: 16 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 31
+Acceso 8447 exito de página con página virtual 47
+********Proceso 1 Total accesos 10825 Total fallos 2377
+
+=== Escenario: 16x16tp256.txt | Marcos: 4 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 4 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 8 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 8 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 16 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp256.txt | Marcos: 16 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 7
+Acceso 8447 exito de página con página virtual 11
+********Proceso 1 Total accesos 8460 Total fallos 12
+
+=== Escenario: 16x16tp1024.txt | Marcos: 4 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 4 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 8 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 8 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 16 | Política: FIFO ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 16x16tp1024.txt | Marcos: 16 | Política: LRU ===
+Acceso 8446 exito de página con página virtual 1
+Acceso 8447 exito de página con página virtual 2
+********Proceso 1 Total accesos 8451 Total fallos 3
+
+=== Escenario: 128x128tp64.txt | Marcos: 4 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 4 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 7861078 Total fallos 3650390
+
+=== Escenario: 128x128tp64.txt | Marcos: 8 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 8 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 7862469 Total fallos 3651781
+
+=== Escenario: 128x128tp64.txt | Marcos: 16 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 6586368 Total fallos 2375680
+
+=== Escenario: 128x128tp64.txt | Marcos: 16 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 3071
+Acceso 4210687 exito de página con página virtual 3071
+********Proceso 1 Total accesos 7862605 Total fallos 3651917
+
+=== Escenario: 128x128tp256.txt | Marcos: 4 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 4 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 7590679 Total fallos 3379991
+
+=== Escenario: 128x128tp256.txt | Marcos: 8 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 8 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 7596869 Total fallos 3386181
+
+=== Escenario: 128x128tp256.txt | Marcos: 16 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 6520832 Total fallos 2310144
+
+=== Escenario: 128x128tp256.txt | Marcos: 16 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 767
+Acceso 4210687 exito de página con página virtual 767
+********Proceso 1 Total accesos 7584580 Total fallos 3373892
+
+=== Escenario: 128x128tp1024.txt | Marcos: 4 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 4 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 4 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 6510652 Total fallos 2299964
+
+=== Escenario: 128x128tp1024.txt | Marcos: 8 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 8 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 8 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 6493694 Total fallos 2283006
+
+=== Escenario: 128x128tp1024.txt | Marcos: 16 | Política: FIFO ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 16 | Política: FIFOModified ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 5364416 Total fallos 1153728
+
+=== Escenario: 128x128tp1024.txt | Marcos: 16 | Política: LRU ===
+Acceso 4210687 fallo con página virtual 191
+Acceso 4210687 exito de página con página virtual 191
+********Proceso 1 Total accesos 6471860 Total fallos 2261172
+
